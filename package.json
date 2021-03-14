@@ -1,0 +1,28 @@
+{
+  "name": "express-router-prefix-group",
+  "version": "1.0.0",
+  "description": "Router prefix group for express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bauhuynhdev/express-router-prefix-group.git"
+  },
+  "keywords": [
+    "express",
+    "router",
+    "prefix",
+    "group"
+  ],
+  "author": "bauhuynhdev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bauhuynhdev/express-router-prefix-group/issues"
+  },
+  "homepage": "https://github.com/bauhuynhdev/express-router-prefix-group#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
